@@ -1,4 +1,4 @@
-This is a demo project written in NextJS. It uses prisma for ORM (which means connects to database)
+This is a test project written in NextJS. It uses prisma for ORM (which means connects to database)
 
 # Run on your local machine
 
